@@ -1,0 +1,5 @@
+source/OpenSolutionIn/bin/
+source/OpenSolutionIn/obj/
+source/packages/
+*.suo
+*.user
